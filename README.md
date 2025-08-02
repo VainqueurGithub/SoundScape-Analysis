@@ -1,2 +1,2 @@
 # SoundScape-Analysis
-We assess the NCA Soundscape using Different Acoustic Indexes
+We assess the NCA Soundscape using Different Acoustic Indices
